@@ -1,5 +1,5 @@
 # Gridworld-Passive-BCI-Experiment
-This is a collection of files to train agents in a gridworld environment and run a passive brain-computer interface (BCI) experiment.  In the experiment, a hunter will attempt to catch the prey.  Errors were purposely introduced so that the human observer can evaluate each of the hunter's actions.  In parallel, optimal policy agents observe the same experiment and generate prediction error in order to correlate the this with the human's event-related potential magnitude.
+This is a collection of files to train agents in a gridworld environment and run a passive brain-computer interface (BCI) experiment.  In the experiment, a hunter will attempt to catch the prey.  Errors were purposely introduced so that the human observer can evaluate each of the hunter's actions.  In parallel, optimal policy agents observe the same experiment and generate prediction error in order to correlate this with the human's event-related potential magnitude.
 
 Module Requirements:\
 numpy, pickle, pygame, matplotlib, seaborn
